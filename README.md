@@ -6,6 +6,18 @@ MIT-style permissive: use it, fork it, break your system at your own risk.
 MIT-style permissive: use it, fork it, break your system at your own risk.
 
 
+## 🧾 REAL License TYPE: Ghostware 0.1
+No warranty. No promise. No safe zone. You use, you test, you burn. Or maybe it works. Who knows.
+No warranty. No promise. No safe zone. You use, you test, you burn. Or maybe it works. Who knows.
+No warranty. No promise. No safe zone. You use, you test, you burn. Or maybe it works. Who knows.
+No warranty. No promise. No safe zone. You use, you test, you burn. Or maybe it works. Who knows.
+No warranty. No promise. No safe zone. You use, you test, you burn. Or maybe it works. Who knows.
+Use it if u wanna do it.  
+**Ur risk. System damage!!!** 👻💥
+Use it if u wanna do it.  
+**Ur risk. System damage!!!** 👻💥
+
+
 # DriverGhostBuster
 Powershell script that trys to locate ghost drivers installed in your Windows 11 System made by ChatGPT4 with some others tools.
 
