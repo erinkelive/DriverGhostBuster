@@ -1,3 +1,11 @@
+LICENSE AND WARNING!!!!
+MIT-style permissive: use it, fork it, break your system at your own risk.
+MIT-style permissive: use it, fork it, break your system at your own risk.
+MIT-style permissive: use it, fork it, break your system at your own risk.
+MIT-style permissive: use it, fork it, break your system at your own risk.
+MIT-style permissive: use it, fork it, break your system at your own risk.
+
+
 # DriverGhostBuster
 Powershell script that trys to locate ghost drivers installed in your Windows 11 System made by ChatGPT4 with some others tools.
 
